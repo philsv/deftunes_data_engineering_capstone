@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"data_quality","Source":"./modules/data_quality","Dir":"modules/data_quality"},{"Key":"extract_job","Source":"./modules/extract_job","Dir":"modules/extract_job"},{"Key":"serving","Source":"./modules/serving","Dir":"modules/serving"},{"Key":"transform_job","Source":"./modules/transform_job","Dir":"modules/transform_job"}]}

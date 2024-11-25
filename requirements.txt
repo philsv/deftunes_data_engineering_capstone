@@ -1,0 +1,5 @@
+apache-airflow>=2.10.3
+docker>=7.1.0
+pandas>=2.2.3
+pyspark>=3.5.3
+requests>=2.32.3
